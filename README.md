@@ -52,7 +52,7 @@ Visit http://localhost:5174 in your browser to access the application.
 Configuration
 For JWT configuration:
 
-The backend/config directory contains settings for JWT secret keys, expiration times, etc.
+The jwt-express/.env directory contains settings for JWT secret keys etc.
 Ensure environment variables are appropriately set for sensitive information like secret keys and database URLs.
 Contributing
 Contributions are welcome! If you want to contribute to this project, please follow these guidelines:
